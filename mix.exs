@@ -3,7 +3,7 @@ defmodule MerkelTree.MixProject do
 
   def project do
     [
-      app: :merkel_tree,
+      app: :merkle_tree,
       version: "0.1.0",
       elixir: "~> 1.10",
       start_permanent: Mix.env() == :prod,
